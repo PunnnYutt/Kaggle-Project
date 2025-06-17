@@ -19,4 +19,4 @@ This project analyzes **online gaming behavior** to identify patterns that influ
 ### 📓 View Notebook
 
 You can view the full notebook on **NBViewer** here:  
-👉 [Click to view notebook](https://nbviewer.org/github/PunnnYutt/Kaggle-practice/blob/main/game_engagement/Game_engage.ipynb)
+[Click to view notebook](https://nbviewer.org/github/PunnnYutt/Kaggle-practice/blob/main/game_engagement/Game_engage.ipynb)
